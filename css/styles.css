@@ -62,7 +62,7 @@ a {
     justify-content: center;
     align-items: center;
     color: #eee;
-    background: url('/img/showcase2.jpg') no-repeat center center/cover;
+    background: url(../img/showcase2.png) no-repeat center center/cover;
     /* OVERLAY */
     background-color: rgba(0, 0, 0, 0.7);
     background-blend-mode: color;
@@ -135,7 +135,7 @@ a {
     justify-content: center;
     align-items: center;
     color: #eee;
-    background: url('/img/smartphone.jpg') no-repeat center center/cover;
+    background: url(../img/smartphone.png) no-repeat center center/cover;
     /* OVERLAY */
     background-color: rgba(0, 0, 0, 0.8);
     background-blend-mode: color;
